@@ -14,5 +14,5 @@ return [
     */
 
     'laravel' => 'Laravel aplikācija',
-
+    'multilang' => 'Daudzvalodu tehnoloģijas atstrāde',
 ];

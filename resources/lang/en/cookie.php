@@ -14,5 +14,5 @@ return [
     */
 
     'laravel' => 'Laravel application',
-
+    'multilang' => 'Multilingual application test',
 ];
